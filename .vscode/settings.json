@@ -1,0 +1,15 @@
+{
+  "folders": [
+    {
+      "path": "C:/Users/edith/Projects/yc_directory/my-app"
+    }
+  ],
+  "settings": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode",
+    "editor.formatOnSave": true,
+    "editor.codeActionsOnSave": {
+      "source.fixAll.eslint": true
+    }
+    // Add any other existing settings you have
+  }
+}
